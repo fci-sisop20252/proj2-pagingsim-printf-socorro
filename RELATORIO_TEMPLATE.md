@@ -174,18 +174,18 @@ Antes deste projeto, nossa compreensão de memória virtual era majoritariamente
 
 ## 5. Vídeo de Demonstração
 
-**Link do vídeo:** Para enviar
+[**Link do vídeo:** Para enviar](https://youtu.be/CN2p2OqaVlQ)
 
 ### Conteúdo do vídeo:
 
 Confirme que o vídeo contém:
 
-- [ ] Demonstração da compilação do projeto
-- [ ] Execução do simulador com algoritmo FIFO
-- [ ] Execução do simulador com algoritmo Clock
-- [ ] Explicação da saída produzida
-- [ ] Comparação dos resultados FIFO vs Clock
-- [ ] Breve explicação de uma decisão de design importante
+- [X] Demonstração da compilação do projeto
+- [X] Execução do simulador com algoritmo FIFO
+- [X] Execução do simulador com algoritmo Clock
+- [X] Explicação da saída produzida
+- [X] Comparação dos resultados FIFO vs Clock
+- [X] Breve explicação de uma decisão de design importante
 
 ---
 
@@ -200,18 +200,11 @@ Antes de submeter, verifique:
 - [X] Testamos com os casos fornecidos em tests/
 - [X] Todas as seções deste relatório foram preenchidas
 - [X] Análise comparativa foi realizada com dados reais
-- [ ] Vídeo de demonstração foi gravado e link está funcionando
-- [ ] Todos os integrantes participaram e concordam com a submissão
+- [X] Vídeo de demonstração foi gravado e link está funcionando
+- [X] Todos os integrantes participaram e concordam com a submissão
 
 ---
 ## Referências
-Liste aqui quaisquer referências que utilizaram para auxiliar na implementação (livros, artigos, sites, **links para conversas com IAs.**)
-
-
----
 
 ## Comentários Finais
 
-Use este espaço para quaisquer observações adicionais que julguem relevantes (opcional).
-
----
